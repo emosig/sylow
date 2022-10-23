@@ -4,7 +4,7 @@ from telegram.ext import Updater, CommandHandler, ConversationHandler, MessageHa
 
 from sylows import *
 
-updater = Updater("5358989366:AAH_bFpnAnWuOJ4ipUYCm65X8e8nTQZR0sw", use_context=True)
+updater = Updater("mytoken", use_context=True)
 
 # --- functions used in conversation ---
   
